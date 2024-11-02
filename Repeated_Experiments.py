@@ -1,5 +1,5 @@
 import multiprocessing as mp
-from base import *
+from DASAM_base import *
 import itertools
 
 
